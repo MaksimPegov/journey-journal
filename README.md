@@ -8,5 +8,6 @@ This API was used as an example on meetup https://www.youtube.com/watch?v=r0_EE8
 - Node.js
 - docker
 ### Instructions:
-1. ```docker-compose up -d```
-2. ```node index.js```
+1. ```npm i```
+2. ```docker-compose up -d```
+3. ```node index.js```
